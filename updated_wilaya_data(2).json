@@ -19,7 +19,7 @@
             "أولف"
         ],
         "delivery": {
-            "home": null,
+            "home": 0,
             "stopdesk": {
                 "price": 900,
                 "communes": [
@@ -430,7 +430,7 @@
             "أدلس"
         ],
         "delivery": {
-            "home": null,
+            "home": 0,
             "stopdesk": {
                 "price": 850,
                 "communes": [
