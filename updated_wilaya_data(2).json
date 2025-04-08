@@ -69,7 +69,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "تنس",
                    "الشلف"
