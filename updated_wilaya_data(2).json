@@ -149,7 +149,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "عين البيضاء",
                     "فيل ليفرور"
@@ -224,7 +224,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "باتنة"
                 ]
@@ -289,7 +289,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "بجاية",
                     "اقبو",
@@ -454,7 +454,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "البويرة"
                 ]
@@ -513,7 +513,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "تبسة"
                 ]
@@ -579,7 +579,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "تلمسان"
                 ]
@@ -634,7 +634,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "تيارت"
                 ]
@@ -714,7 +714,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "تيزي وزو"
                 ]
@@ -881,7 +881,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "جيجل",
                     "الطاهير"
@@ -955,7 +955,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "سطيف",
                     "العلمة"
@@ -985,7 +985,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "سعيدة"
                 ]
@@ -1036,7 +1036,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "سكيكدة"
                 ]
@@ -1101,7 +1101,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "سيدي بلعباس"
                 ]
@@ -1126,7 +1126,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "عنابة",
                     "البوني"
@@ -1174,7 +1174,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "قالمة"
                 ]
@@ -1199,7 +1199,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "زواغي",
                     "المدينة الجديدة",
@@ -1323,7 +1323,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "مستغانم"
                 ]
@@ -1383,7 +1383,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "المسيلة",
                     "بوسعادة"
@@ -1444,7 +1444,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "معسكر"
                 ]
@@ -1505,7 +1505,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "المرشد",
                     "السانيا",
@@ -1590,7 +1590,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "برج بوعريريج"
                 ]
@@ -1673,7 +1673,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "الطارف"
                 ]
@@ -1708,7 +1708,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "تيسمسيلت"
                 ]
@@ -1777,7 +1777,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "خنشلة"
                 ]
@@ -1816,7 +1816,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "سوق أهراس"
                 ]
@@ -1941,7 +1941,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "ميلة"
                 ]
@@ -2040,7 +2040,7 @@
         "delivery": {
             "home": 600,
             "stopdesk": {
-                "price": 400,
+                "price": 450,
                 "communes": [
                     "غليزان"
                 ]
